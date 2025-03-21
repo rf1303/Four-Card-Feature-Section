@@ -18,28 +18,28 @@ body {
 }
 
 
-.layout__header {
+.layout__headline {
   width: min(54rem, 84%);
   margin: 5.6rem auto;
   text-align: center;
   color: $grey-500-color;
 }
 
-.header__title {
+.headline__title {
   font-size: 2.4rem;
   font-family: poppinLight;
   line-height: $text-lh-2;
   letter-spacing: .25px;
 }
 
-.header__subtitle {
+.headline__subtitle {
   font-size: 2.4rem;
   font-family: PoppinSemiBold;
   line-height: $text-lh-2;
   letter-spacing: .25px;
 }
 
-.header__lead {
+.headline__lead {
   font-size: $text-size-3;
   font-family: poppinRegular;
   line-height: $text-lh-2;
@@ -64,7 +64,7 @@ body {
   box-shadow: rgba(0, 0, 0, 0.35) 0 .5rem 1.5rem;
   min-height: 25rem;
   border-radius: .8rem;
-  padding: 3.2rem;
+  padding: 2.7rem;
 }
 
 .card__content--1 {
@@ -119,12 +119,12 @@ body {
     margin-bottom: 0;
     margin-right: 3.2rem;
   }
-  .layout__header {
+  .layout__headline {
     margin-top: 10.4rem;
-    margin-bottom: 5.3rem;
+    margin-bottom: 5.1rem;
   }
-  .header__title,
-  .header__subtitle {
+  .headline__title,
+  .headline__subtitle {
     font-size: 3.6rem;
   }
 } 
