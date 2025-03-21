@@ -5,7 +5,7 @@
 
 
 
-@include font-face("poppinLight", "../fonts/Poppins-ExtraLight.ttf");
+@include font-face("poppinLight", "../fonts/Poppins-Thin.ttf");
 @include font-face("poppinRegular", "../fonts/Poppins-Regular.ttf");
 @include font-face("poppinSemibold", "../fonts/Poppins-SemiBold.ttf");
 
@@ -120,7 +120,7 @@ body {
     margin-right: 3.2rem;
   }
   .layout__header {
-    margin-top: 8rem;
+    margin-top: 10rem;
   }
   .header__title,
   .header__subtitle {

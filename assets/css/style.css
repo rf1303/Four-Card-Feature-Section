@@ -30,7 +30,7 @@ img {
 
 @font-face {
   font-family: "poppinLight";
-  src: url("../fonts/Poppins-ExtraLight.ttf");
+  src: url("../fonts/Poppins-Thin.ttf");
 }
 @font-face {
   font-family: "poppinRegular";
@@ -154,7 +154,7 @@ body {
     margin-right: 3.2rem;
   }
   .layout__header {
-    margin-top: 8rem;
+    margin-top: 10rem;
   }
   .header__title,
   .header__subtitle {
