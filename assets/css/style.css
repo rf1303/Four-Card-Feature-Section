@@ -153,13 +153,19 @@ body {
     margin-bottom: 0;
     margin-right: 3.2rem;
   }
+  .layout__header {
+    margin-top: 8rem;
+  }
+  .header__title,
+  .header__subtitle {
+    font-size: 3.6rem;
+  }
 }
 @media (min-width: 1200px) {
   .layout__main {
     width: 111.4rem;
     flex-direction: row;
     margin-inline: auto;
-    /* gap: 3.2rem; */
   }
   .main__card--2 {
     flex-direction: column;
