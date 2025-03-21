@@ -166,6 +166,7 @@ body {
     width: 111.4rem;
     flex-direction: row;
     margin-inline: auto;
+    padding: 0;
   }
   .main__card--2 {
     flex-direction: column;
