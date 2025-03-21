@@ -154,7 +154,8 @@ body {
     margin-right: 3.2rem;
   }
   .layout__header {
-    margin-top: 10rem;
+    margin-top: 10.7rem;
+    margin-bottom: 5.3rem;
   }
   .header__title,
   .header__subtitle {
@@ -166,7 +167,6 @@ body {
     width: 111.4rem;
     flex-direction: row;
     margin-inline: auto;
-    padding: 0;
   }
   .main__card--2 {
     flex-direction: column;
